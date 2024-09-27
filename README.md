@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Ifthe16/Ifthe16/issues)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The term "debugging" comes from a real bug found in a computer in 1947, but you might find more bugs in your code than in a hardware store!**
 
  </div>
  
