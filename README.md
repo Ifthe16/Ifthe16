@@ -47,7 +47,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  ![snake gif](https://github.com/Ifthe16/Ifthe16/blob/output/github-contribution-grid-snake.svg)
+  <img alt="snake eating my contributions" src="https://github.com/Ifthe16/Ifthe16/blob/output/github-contribution-grid-snake.svg" />
 
   
   <br/><br/><br/>
