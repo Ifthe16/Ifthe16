@@ -79,12 +79,12 @@
 <br/>
 
 <hr>
-<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ifthe16" alt="Ifthe16" /></p>
-
- <img src="https://github-profile-trophy.vercel.app/?username=Ifthe16" alt="Ifthe16's GitHub Trophies" />
 
 <br>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ifthe16&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ifthe16&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ifthe16&theme=algolia)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ifthe16&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ifthe16&theme=algolia&utcOffset=8)
+
+<hr>
+<p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ifthe16" alt="Ifthe16" /></p>
