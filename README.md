@@ -43,6 +43,32 @@
     <img src="https://skillicons.dev/icons?i=blender,bash,aiscript,bots,devto,ai,netlify,notion,ps,powershell,pycharm,replit,wordpress,cloudflare,devto,discord,discordjs,django,c,cs,cpp,docker,flask,gcp,gmail,gitlab,instagram,linkedin,linux,npm,ps,powershell,py,pycharm,svg,twitter,unity,vercel,vite,visualstudio,windows,xd" /><br>
 </div>
 
+<hr>
+<br>
+
+<div align="center">
+
+  <h3>Frontend</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,javascript,react,bootstrap,mui,nextjs,vite" alt="Frontend Icons" />
+
+  <h3>Backend</h3>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,typescript,firebase,mongodb,mysql,django,flask" alt="Backend Icons" />
+
+  <h3>Code Editors</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,codepen,visualstudio,replit" alt="Code Editor Icons" />
+
+  <h3>Graphic Design Software</h3>
+  <img src="https://skillicons.dev/icons?i=figma,ps,blender,xd" alt="Graphic Design Icons" />
+
+  <h3>Operating Systems</h3>
+  <img src="https://skillicons.dev/icons?i=windows,linux" alt="Operating System Icons" />
+
+  <h3>Other Tools & Platforms</h3>
+  <img src="https://skillicons.dev/icons?i=github,git,gitlab,cloudflare,netlify,vercel,powershell,bash,npm" alt="Other Tools Icons" />
+
+</div>
+
+
 <br/>
 <hr/>
 
