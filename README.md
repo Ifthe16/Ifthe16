@@ -1,12 +1,15 @@
-<div>
- <div align="right">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=1000&background=0000FF00&width=435&lines=Hi+There!+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%92%9C;Let%E2%80%99s+build+something+together!+%F0%9F%9A%80" alt="Typing SVG" /></a>
-</div>
-
-<div align="left">
- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Ifthe16" alt="visitor badge"/>
-</div>
-</div>
+<table width="100%">
+  <tr>
+    <td align="left">
+      <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=25&duration=3000&pause=1000&background=0000FF00&width=435&lines=Hi+There!+%F0%9F%91%8B;Welcome+to+my+GitHub+%F0%9F%92%9C;Let%E2%80%99s+build+something+together!+%F0%9F%9A%80" alt="Typing SVG" />
+      </a>
+    </td>
+    <td align="right" width="100px">
+      <img src="https://visitor-badge.laobi.icu/badge?page_id=Ifthe16" alt="visitor badge"/>
+    </td>
+  </tr>
+</table>
 
 
 <h3 align="center">A passionate web developer from California 🇺🇸</h3>
