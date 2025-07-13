@@ -65,7 +65,7 @@
   <img src="https://skillicons.dev/icons?i=github,git,gitlab,cloudflare,netlify,vercel,powershell,bash,npm" alt="Platforms and Tools Icons" />
 
   <h3>Others</h3>
-  <img src="https://skillicons.dev/icons?i=aiscript,bots,devto,ai,notion,discord,discordjs,c,cs,cpp,docker,gcp,gmail,instagram,linkedin,py,svg,twitter,unity" alt="Other Icons" />
+  <img src="https://skillicons.dev/icons?i=aiscript,bots,devto,ai,notion,discord,discordjs,c,cs,cpp,docker,gcp,gmail,instagram,linkedin,svg,twitter,unity" alt="Other Icons" />
 
 </div>
 
