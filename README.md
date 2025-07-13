@@ -75,8 +75,7 @@
 
 <div align=center>
   <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ifthe16&theme=algolia" />
- <br>
- <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Ifthe16&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ifthe16&theme=algolia&utcOffset=8" />
+  <img src="https://github-readme-stats-salesp07.vercel.app/api?username=Ifthe16&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ifthe16&theme=algolia&utcOffset=8" />
   <br/>
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ifthe16&theme=algolia" alt="GitHub Streak" /> 
 </div>
