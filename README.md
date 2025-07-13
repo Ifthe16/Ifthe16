@@ -43,8 +43,7 @@
     <img src="https://skillicons.dev/icons?i=blender,bash,aiscript,bots,devto,ai,netlify,notion,ps,powershell,pycharm,replit,wordpress,cloudflare,devto,discord,discordjs,django,c,cs,cpp,docker,flask,gcp,gmail,gitlab,instagram,linkedin,linux,npm,ps,powershell,py,pycharm,svg,twitter,unity,vercel,vite,visualstudio,windows,xd" /><br>
 </div>
  -->
-<br>
-
+ 
 <div align="center">
 
   <h3>Frontend</h3>
