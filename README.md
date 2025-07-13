@@ -81,7 +81,7 @@
 <hr>
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=Ifthe16" alt="Ifthe16" /></p>
 
-![trophy](https://github-profile-trophy.vercel.app/?Ifthe16=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+ <img src="https://github-profile-trophy.vercel.app/?username=Ifthe16" alt="Ifthe16's GitHub Trophies" />
 
 <br>
 
