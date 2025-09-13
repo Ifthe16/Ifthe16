@@ -135,14 +135,6 @@
     <img src="https://skillicons.dev/icons?i=xd" alt="Adobe XD" />
   </a>
 
-  <h3>Operating Systems</h3>
-  <a href="https://www.microsoft.com/windows" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=windows" alt="Windows" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noopener noreferrer">
-    <img src="https://skillicons.dev/icons?i=linux" alt="Linux" />
-  </a>
-
   <h3>Platforms & Tools</h3>
   <a href="https://github.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=github" alt="GitHub" />
